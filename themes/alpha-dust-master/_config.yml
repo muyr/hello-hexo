@@ -1,0 +1,40 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+
+# Header
+menu:
+  Home: /
+  Export-Excel : /export-excel
+  Shortcut-Manager: /shortcut-manager
+  About: /about.html
+  Contact: /contact.html
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+youtube_url: https://www.youtube.com/channel/UCzws_UNsJ9z09_mcUl6AcuQ
+facebook_url: https://www.facebook.com/
+instagram_url: https://www.instagram.com/
+github_url: https://github.com/muyr
+weixin_url: https://github.com/muyr
+email_url: muyanru@gmail.com
+rss_url: \#
+
+# Footer About Text
+footer_about: "This theme was developed by <a href=\"https://github.com/klugjo\">Jonathan Klughertz</a>. The source code is available on Github. Create Websites. Make Magic."
+
+# Footer Copyright Line
+footer_copyright: "@muyanru. All right reserved"
+
