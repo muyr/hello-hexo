@@ -24,6 +24,24 @@
                         </a>
                     </li>
                     <% } %>
+                    <% if(theme.weixin_url) { %>
+                    <li class="list-inline-item">
+                        <a href="<%- theme.weixin_url %>">
+                            <span class="footer-icon-container">
+                                <i class="fa fa-weixin"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <% } %>
+                    <% if(theme.youtube_url) { %>
+                    <li class="list-inline-item">
+                        <a href="<%- theme.youtube_url %>">
+                            <span class="footer-icon-container">
+                                <i class="fa fa-youtube"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <% } %>
                     <% if(theme.twitter_url) { %>
                     <li class="list-inline-item">
                         <a href="<%- theme.twitter_url %>">

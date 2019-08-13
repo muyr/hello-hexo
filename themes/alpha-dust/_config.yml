@@ -4,10 +4,11 @@ fa_logo: fa-cube
 # Header
 menu:
   Home: /
-  Archives: /archives
-  About: /about.html
-  Tags: /tags
-  Categories: /categories
+#  Archives: /archives
+  Export-Excel: /export-excel
+  Shortcut-Manager: /shortcut-manager
+#  Tags: /tags
+#  Categories: /categories
   Contact: /contact.html
 
 # Default post title
@@ -25,16 +26,18 @@ comments:
 google_analytics:
 
 # Social Accounts
-twitter_url: https://twitter.com/?lang=en
-facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
-dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-alpha-dust
-googleplus_url: https://plus.google.com/
-behance_url: https://www.behance.net/
-fivehundredpx_url: https://500px.com/
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+youtube_url: https://www.youtube.com/channel/UCzws_UNsJ9z09_mcUl6AcuQ
+weixin_url: https://github.com/klugjo/hexo-theme-alpha-dust
+github_url: https://github.com/muyr
+#googleplus_url: https://plus.google.com/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
 email_url: test@example.com
-rss_url: \#
+#rss_url: \#
 
 # Footer About Text
 footer_about: "This theme was developed by <a href=\"https://github.com/klugjo\">Jonathan Klughertz</a>. The source code is available on Github. Create Websites. Make Magic."
