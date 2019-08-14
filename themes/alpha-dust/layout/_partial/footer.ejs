@@ -42,6 +42,15 @@
                         </a>
                     </li>
                     <% } %>
+                    <% if(theme.patreon_url) { %>
+                    <li class="list-inline-item">
+                        <a href="<%- theme.patreon_url %>">
+                            <span class="footer-icon-container">
+                                <i class="fa fa-patreon"></i>
+                            </span>
+                        </a>
+                    </li>
+                    <% } %>
                     <% if(theme.twitter_url) { %>
                     <li class="list-inline-item">
                         <a href="<%- theme.twitter_url %>">
