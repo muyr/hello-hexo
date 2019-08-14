@@ -1,0 +1,3 @@
+[[redirects]]
+  from = "https://muyr.netlify.com/*"
+  to = "https://www.maziteasy.com/:splat"
