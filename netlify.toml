@@ -1,3 +1,5 @@
 [[redirects]]
-  from = "muyr.netlify.com/*"
-  to = "www.maziteasy.com/:splat"
+  from = "https://muyr.netlify.com/*"
+  to = "https://www.maziteasy.com/:splat"
+  status = 301
+  force = true
